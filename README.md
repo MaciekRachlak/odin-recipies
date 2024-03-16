@@ -1,4 +1,4 @@
-# odin-recipies
+# odin-recipes
 
-My first Odin Project - creating a simple website with recipies.
-Project will grow later when I will learn about CSS formating.
+My first Odin Project - creating a simple website with recipes.
+Project will grow later when I will learn about CSS formatting.
